@@ -310,3 +310,5 @@
 2025-04-03 19:42:00 | WARN | repo=ImageMagick | action=commit
 2025-03-27 15:50:00 | DEBUG | repo=ImageMagick | action=pull
 2025-05-25 15:26:00 | WARN | repo=ImageMagick | action=commit
+2025-11-17 08:51:00 | WARN | repo=ImageMagick | action=pull
+2025-03-20 12:07:00 | DEBUG | repo=ImageMagick | action=commit
